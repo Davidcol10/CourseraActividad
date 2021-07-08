@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="app_name">MyApplication6</string>
+    <string name="saludo">مرحبا</string>
+    <string name="ingresaboton">إنتيروكاي</string>
+</resources>
